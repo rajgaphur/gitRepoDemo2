@@ -1,0 +1,16 @@
+this is a first file1 contents
+
+Added another line from Github console at 12:06pm
+
+Again added another line from git bash at 12:08pm
+
+added line at after pushing to origin master at 12:14pm
+<<<<<<< HEAD
+Addign from git repo windows at 12:44pm
+Addign from github console ar 12:39pm
+=======
+
+Addign from github console ar 12:39pm
+
+Again Addign from github console ar 12:42pm
+>>>>>>> b1dcc40308a5289f5166e37b8333d4cfee0dc9a7
