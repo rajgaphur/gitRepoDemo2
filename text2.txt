@@ -1,3 +1,7 @@
 Added second file from git bash using touch cmd at 12:13 pm 15_01_24
 
+<<<<<<< HEAD
 Added this line from windows file at 12:19pm
+=======
+modified by adding this line at 12:18pm
+>>>>>>> af6c74bfbd30be65fa48bb040437653b0d1b6936
