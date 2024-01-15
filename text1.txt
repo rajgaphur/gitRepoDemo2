@@ -3,3 +3,5 @@ this is a first file1 contents
 Added another line from Github console at 12:06pm
 
 Again added another line from git bash at 12:08pm
+
+added line at after pushing to origin master at 12:14pm
