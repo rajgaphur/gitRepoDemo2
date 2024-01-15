@@ -1,2 +1,4 @@
-this is a first file1 contents:wq!
+this is a first file1 contents
+
+Added another line from Github console at 12:06pm
 
